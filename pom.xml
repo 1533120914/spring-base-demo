@@ -11,8 +11,12 @@
     <groupId>com.changxinglong</groupId>
     <artifactId>spring-base-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>spring-base-demo</name>
     <description>spring-base-demo</description>
+    <modules>
+        <module>spring6-first</module>
+    </modules>
     <properties>
         <java.version>21</java.version>
     </properties>
